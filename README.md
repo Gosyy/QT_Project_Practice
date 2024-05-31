@@ -1,3 +1,4 @@
-# Educational projects QT
+# Projects QT for practice
 
-> ___show button text___ – showed the text after button click.
+> ___HeightIndicator___ – data output
+> ___SerwerWidget___ – regulator
